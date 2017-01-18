@@ -1,0 +1,8 @@
+# Site settings
+title: frontend_basics
+
+# Build settings
+markdown: kramdown
+
+gems:
+  - jemoji
