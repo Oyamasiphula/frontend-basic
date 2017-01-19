@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Skellingotn framework
+title: Skellington framework
 ---
 
-# Skellingotn framework
+# Skellington framework
